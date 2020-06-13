@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "テスト": "github:electricbaka/microbit-test2#2bc3c28e8f104a99dcf4c182070f1d19a825f437"
     },
     "files": [
         "main.blocks",
